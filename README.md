@@ -1,1 +1,3 @@
-# bebebe-ios.
+# bebebe-ios.TELEGRAM_BOT_TOKEN
+TELEGRAM_CHAT_ID
+APP_API_KEY
